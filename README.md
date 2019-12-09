@@ -1,5 +1,7 @@
 # tienda
 
+Frontend de plicación CRUD de una lista de productos hecha con VueJS
+
 ## Project setup
 ```
 yarn install
